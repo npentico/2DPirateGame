@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrustyPirate",
+			"Path": "..\\Source\\CrustyPirate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrustyPirateEditor",
+			"Path": "..\\Source\\CrustyPirateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
