@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\natha\\onedrive\\desktop\\unreal projects\\2dpirategame\\crustypirate\\intermediate\\build\\win64\\unrealeditor\\inc\\crustypirate\\uht\\crustypirate.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\natha\\onedrive\\desktop\\unreal projects\\2dpirategame\\crustypirate\\intermediate\\build\\win64\\x64\\crustypirateeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\natha\\onedrive\\desktop\\unreal projects\\2dpirategame\\crustypirate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crustypirate\\definitions.crustypirate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

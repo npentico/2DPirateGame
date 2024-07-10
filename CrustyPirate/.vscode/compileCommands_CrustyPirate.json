@@ -22,5 +22,21 @@
 			"@C:\\Users\\natha\\OneDrive\\Desktop\\Unreal Projects\\2DPirateGame\\CrustyPirate\\.vscode\\compileCommands_CrustyPirate\\CrustyPirate.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\natha\\OneDrive\\Desktop\\Unreal Projects\\2DPirateGame\\CrustyPirate\\Source\\CrustyPirate\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\natha\\OneDrive\\Desktop\\Unreal Projects\\2DPirateGame\\CrustyPirate\\.vscode\\compileCommands_CrustyPirate\\CrustyPirate.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\natha\\OneDrive\\Desktop\\Unreal Projects\\2DPirateGame\\CrustyPirate\\Source\\CrustyPirate\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\natha\\OneDrive\\Desktop\\Unreal Projects\\2DPirateGame\\CrustyPirate\\.vscode\\compileCommands_CrustyPirate\\CrustyPirate.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}
 ]

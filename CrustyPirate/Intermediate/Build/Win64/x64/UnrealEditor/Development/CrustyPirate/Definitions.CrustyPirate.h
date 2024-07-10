@@ -1,4 +1,4 @@
-#include "C:/Users/natha/OneDrive/Desktop/Unreal Projects/2DPirateGame/CrustyPirate/Intermediate/Build/Win64/x64/CrustyPirateEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "C:/Users/natha/OneDrive/Desktop/Unreal Projects/2DPirateGame/CrustyPirate/Intermediate/Build/Win64/x64/CrustyPirateEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -21,4 +21,16 @@
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
 #define DEPRECATED_FORGAME DEPRECATED
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED
+#define PAPERZD_API DLLIMPORT
+#define PAPER2D_API DLLIMPORT
+#define VECTORVM_SUPPORTS_EXPERIMENTAL 1
+#define VECTORVM_SUPPORTS_LEGACY 1
+#define NIAGARA_API DLLIMPORT
+#define NIAGARACORE_API DLLIMPORT
+#define VECTORVM_SUPPORTS_EXPERIMENTAL 1
+#define VECTORVM_SUPPORTS_LEGACY 1
+#define VECTORVM_API DLLIMPORT
+#define NIAGARASHADER_API DLLIMPORT
+#define NIAGARAVERTEXFACTORIES_API DLLIMPORT
 #define CRUSTYPIRATE_API DLLEXPORT
+#define ENHANCEDINPUT_API DLLIMPORT

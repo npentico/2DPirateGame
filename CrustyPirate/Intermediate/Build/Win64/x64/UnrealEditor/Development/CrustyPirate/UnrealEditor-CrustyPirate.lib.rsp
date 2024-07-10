@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-CrustyPirate.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\CrustyPirateEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\CrustyPirateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\CrustyPirate.init.gen.cpp.obj"
+"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\PlayerCharacter.gen.cpp.obj"
 "C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\CrustyPirate.cpp.obj"
+"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\PlayerCharacter.cpp.obj"
 "C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\Default.rc2.res"
 /OUT:"C:\Users\natha\OneDrive\Desktop\Unreal Projects\2DPirateGame\CrustyPirate\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustyPirate\UnrealEditor-CrustyPirate.lib"
