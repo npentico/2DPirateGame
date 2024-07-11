@@ -6,6 +6,8 @@
 #include "PaperZDCharacter.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "GameFramework/Controller.h"
+
 
 #include "PlayerCharacter.generated.h"
 
@@ -23,9 +25,28 @@ public:
 	virtual void BeginPlay() override;
 	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
-	USpringArmComponent* SpringArm;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	USpringArmComponent *SpringArm;
 
-	UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
-	UCameraComponent* Camera;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UCameraComponent *Camera;
+	UFUNCTION(BlueprintCallable)
+	void Move(float InputValue);
+
+	void UpdateDirection(float MoveDirection);
+
+	UFUNCTION(BlueprintCallable)
+	void JumpStarted(bool InputValue);
+
+	UFUNCTION(BlueprintCallable)
+	void JumpEnded(bool InputValue);
+
+	UFUNCTION(BlueprintCallable)
+	void Attack(bool InputValue);
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	bool bIsAlive = true;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	bool bCanMove = true;
 };
